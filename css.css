@@ -1,0 +1,46 @@
+#contenedor1,p{
+   
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 1440px;
+	height: 43px;
+
+}
+
+#contenedor2,p{
+   
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 1380px;
+	height: 43px;
+
+}
+
+.tamaño{
+	font-size: 30px;
+	
+}
+#caja1,p{
+	float: left;
+	border: 10px solid;
+	max-height: 2000px;
+	min-height: 504px;
+	border-color: green;
+	width: 1120px
+	
+
+}
+#caja2,p{
+	float: right;
+	
+	border: 10px solid;
+	border-color: green;
+	max-height: 2000px;
+	min-height: 504px;
+	width: 400px
+
+}
